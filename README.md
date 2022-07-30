@@ -1,10 +1,13 @@
-# process-create-destruct
-Process creation and destruction
+# process-creation-hierarchy
 
-To use the program:
-Enter parameters
-Create a new child process
-Destroy all descendants of a process
-Quit program and free memory
-Enter selection
-Then quits the program!
+Objective: 
+To simulate process creation and destruction when implemented with linked lists. 
+ 
+Specification: 
+The program creates/destroys child processes based on choosing from a menu of choices, where each 
+choice calls the appropriate procedure, where the choices are:  
+1) Enter parameters 
+2) Create a new child process  
+3) Destroy all descendants of a process  
+4) Quit program and free memory 
+ 
